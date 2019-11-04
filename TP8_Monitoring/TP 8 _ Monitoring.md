@@ -81,7 +81,7 @@ mysql_global_status_commands_total{command="select"}
 ![capture 1ère requête](./capt_requete_1.png)
 
 #### 2ème requête : 
-- Créer un graphique sui affiche la variation du taux d'opérations de lectures et d'écritures en prennat en compte la moyenne sur les 5 dernières minutes
+- Créer un graphique qui affiche la variation du taux d'opérations de lectures et d'écritures en prennat en compte la moyenne sur les 5 dernières minutes
 
 ```
 rate(mysql_global_status_commands_total{command="insert"}[5m]) or
