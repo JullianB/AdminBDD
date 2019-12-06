@@ -5,26 +5,26 @@
 
 #### Ajoutez un panel avec un graphique du taux d'opération READ
 
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa)
+![read](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_2.png)
 
 #### Ajoutez un panel qui affiche simplement le nombre total de tentatives de connexion refusées
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa)
+![error](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_3.png)
 
 #### Ajoutez un panel sous forme de compteur (gauge) qui affiche le temps nécéssaire à l'exporter pour scrapper les données liées aux connections depuis le serveur MariaDB, trouvez un format et des limites adaptées.
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa)
+![scrapes](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_4.png)
 
 
 ### Importer la base de donnée
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/Capt_grafa_exporter.PNG)
+![mysql exporter](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/Capt_grafa_exporter.PNG)
 
 #### Ajoutez un panel qui affiche un graph avec les comptes utilisateurs créés par jour
 ![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa)
 
 #### Ajoutez un panel qui affiche le nombre total de clients
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/Capt_grafa_1.PNG)
+![total clients](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_1.png)
 
 #### Ajoutez un compteur le nombre de payments de la semaine dernière
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/Capt_grafa_2.PNG)
+![payement](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_2.png)
 
 #### Ajoutez un panel qui affiche le volume de ventes par jour avec des indicateurs de performances
 ![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa)
