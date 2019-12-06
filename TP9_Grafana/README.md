@@ -8,7 +8,7 @@
 ![read](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_4.png)
 
 #### Ajoutez un panel qui affiche simplement le nombre total de tentatives de connexion refusées
-![error](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/Capt_grafa_2.PNG)
+![error](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_2.png)
 
 #### Ajoutez un panel sous forme de compteur (gauge) qui affiche le temps nécéssaire à l'exporter pour scrapper les données liées aux connections depuis le serveur MariaDB, trouvez un format et des limites adaptées.
 ![scrapes](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_3.png)
