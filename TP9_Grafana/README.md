@@ -1,7 +1,7 @@
 ## TP9 - Dashboard Grafana
 
 ### Utiliser Prometheus dans Grafana
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa_prometheus.png)
+![config prometheus](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/Capt_grafa_prometheus.PNG)
 
 #### Ajoutez un panel avec un graphique du taux d'opération READ
 
@@ -15,16 +15,16 @@
 
 
 ### Importer la base de donnée
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa_exporter.png)
+![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/Capt_grafa_exporter.PNG)
 
 #### Ajoutez un panel qui affiche un graph avec les comptes utilisateurs créés par jour
 ![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa)
 
 #### Ajoutez un panel qui affiche le nombre total de clients
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa_1.png)
+![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/Capt_grafa_1.PNG)
 
 #### Ajoutez un compteur le nombre de payments de la semaine dernière
-![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa_2.png)
+![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/Capt_grafa_2.PNG)
 
 #### Ajoutez un panel qui affiche le volume de ventes par jour avec des indicateurs de performances
 ![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa)
