@@ -21,10 +21,10 @@
 ![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa)
 
 #### Ajoutez un panel qui affiche le nombre total de clients
-![total clients](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_1.png)
+![total clients](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_7.png)
 
 #### Ajoutez un compteur le nombre de payments de la semaine dernière
-![payement](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_2.png)
+![payement](https://github.com/JullianB/AdminBDD/blob/master/TP9_Grafana/capt_grafa_8.png)
 
 #### Ajoutez un panel qui affiche le volume de ventes par jour avec des indicateurs de performances
 ![image alt](https://github.com/JullianB/AdminBDD/tree/master/TP9_Grafana/capt_grafa)
